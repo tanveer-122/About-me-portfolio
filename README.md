@@ -10,7 +10,7 @@ This is a one-page personal about me website built using HTML, CSS, and JavaScri
 
 ## Demo
 
-You can see the live demo of the website by clicking [`here`](https://tanveer-122.github.io/Personal-Portfolio/)
+You can see the live demo of the website by clicking [`here`](https://tanveer-122.github.io/my-portfolio/)
 
 ## Customization
 
