@@ -8,10 +8,6 @@ This is a one-page personal about me website built using HTML, CSS, and JavaScri
 * Easy to customize and add your own details
 * Built using modern HTML, CSS, and JavaScript
 
-## Demo
-
-You can see the live demo of the website by clicking [`here`](https://tanveer-122.github.io/my-portfolio/)
-
 ## Customization
 
 To customize the website for your own use, simply edit the HTML and CSS file. Remember to include your own image, name, personal details and social media links. Moreover, you can change the color scheme, font style, and include additional elements.
